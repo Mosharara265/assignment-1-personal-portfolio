@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+.contener{
+    background-color: rgb(29, 78, 124);
+    text-align: center;
+    border-radius: 30px;
+    padding: 20px;
+}
+.margin{
+    margin: auto;
+}
+.w-90{
+    width: 90%;
+}
+.w-20{
+    width: 20%;
+}
+.contener button{
+    width:  15%;
+    height: 4%;
+    border-radius: 50px;
+    background-color: rgb(35, 116, 173);
+    border: none;
+}
+.about img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
+.pmw{
+    padding: 10px;
+    margin: 20px auto;
+    width: 100%;
+}
+.about .card {
+    text-align: left;
+
+}
+.border{
+    border: 2px ;
+    border-radius: 30px;
+    background-color: rgb(219, 219, 219);
+    
+}
+
+
+.clear{
+    clear: both;
+}
+.fro{
+    color: rgb(35, 116, 173);
+}
+.about .card a{
+    background-color: rgb(35, 116, 173);
+    padding: 8px 16px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.skills{
+    width: 100%; 
+    padding: auto ;
+}
+.skills .cardes {
+   float: left;
+    width: 23%;
+    margin: 1%;
+    background-color: #ffffff;
+    padding: 20px auto;
+    border-radius: 12px;
+    text-align: center;
+}
+.color h2{
+    color: rgb(0, 0, 99);
+}
+.skills h3{
+    color: rgb(20, 20, 94);
+}
+.experience .experience-items .experience-item img{
+    width: 13%; 
+    padding: 15px;
+} 
+.experience-item img{
+    float: left;
+
+} 
+.experience-items{
+    width: 90%;
+    margin: 5%;
+    padding: 3px 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    height: auto;
+}
+.contact{
+     background-color: rgb(29, 78, 124);
+    border-radius: 30px;
+    padding: 20px;
+}
+.contact-link {
+  padding: 10px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3); 
+  border-radius: 8px;                       
+  color: rgb(0, 0, 0);                                                   
+  background-color: rgba(35, 116, 173);
+}
